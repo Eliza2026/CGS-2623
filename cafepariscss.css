@@ -19,7 +19,7 @@ img { padding-top: 100px; padding-left: 75px; max-width: 100%; height: auto;  }
 
 form { background-color: #229954; color: #F9E490;
        font-family: Palatino, sans-serif; font-size: .50em;
-       width: 250px; padding-left: 500px; }
+       width: 250px; padding-left: 400px; }
 
 label { float: left; clear: left; display: block;
         width: 100px; padding-right: 100px;
