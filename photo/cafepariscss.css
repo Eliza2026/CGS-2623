@@ -1,0 +1,23 @@
+header { background-color: #006633; color: #F9E490; text-align: center; font-size: 2em; line-height: 200%; }
+
+h1 { background-color: #006633; color: #F9E490F; 
+    font-family: serif, Palatino, serif;
+    text-indent: 1em; }
+
+
+
+nav { background-color: #339966; color: #F9E490; font-family: serif, Palatino, serif; font-size: 1.5em; text-align: center; }
+
+nav a{ text-decoration: none; padding-right: 10px;
+  color: #F9E490; }
+
+body { background-color: #339966; color: #F9E490; 
+color: #F4D03F; font-family: serif, Palatino, serif; font-size: 2em; text-align: center; }
+
+img { padding-top: 100px; padding-left: 75px; }
+
+p { color: #F9E490; 
+    font-family: serif, Palatino, serif;
+    text-align: center;  }
+
+footer { color: #F9E490; }
