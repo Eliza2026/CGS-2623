@@ -12,7 +12,7 @@ nav a{ text-decoration: none; padding-right: 10px;
   color: #F9E490; }
 
 body { background-color: #034F3B; color: #F9E490; 
-; font-family: serif, Palatino, serif; font-size: 2em; text-align: center; }
+font-family: serif, Palatino, serif; font-size: 2em; text-align: center; }
 
 img { padding-top: 100px; padding-left: 75px; max-width: 100%; height: auto;  }
 
@@ -37,5 +37,6 @@ p { color: #F9E490;
 
 
 footer { color: #F9E490; }
+
 
 
