@@ -1,23 +1,23 @@
-header { background-color: #1D8348; color: #F9E490; text-align: center; font-size: 2em; line-height: 200%; background-size: cover; }
+header { background-color:034F3B; color: #F9E490; text-align: center; font-size: 2em; line-height: 200%; background-size: cover; }
 
-h1 { background-color: #229954; color: #F9E490; 
+h1 { background-color: 034F3B; color: #F9E490; 
     font-family: serif, Palatino, serif;
     text-indent: 1em; }
 
 
 
-nav { background-color: #229954; color: #F9E490; font-family: serif, Palatino, serif; font-size: 1.5em; text-align: center; }
+nav { background-color: 034F3B; color: #F9E490; font-family: serif, Palatino, serif; font-size: 1.5em; text-align: center; }
 
 nav a{ text-decoration: none; padding-right: 10px;
   color: #F9E490; }
 
-body { background-color: #229954; color: #F9E490; 
-color: #F4D03F; font-family: serif, Palatino, serif; font-size: 2em; text-align: center; }
+body { background-color: #034F3B; color: #F9E490; 
+; font-family: serif, Palatino, serif; font-size: 2em; text-align: center; }
 
 img { padding-top: 100px; padding-left: 75px; max-width: 100%; height: auto;  }
 
 
-form { background-color: #229954; color: #F9E490;
+form { background-color: 034F3B; color: #F9E490;
        font-family: Palatino, sans-serif; font-size: .50em;
        width: 250px; padding-left: 400px; }
 
@@ -34,5 +34,6 @@ input[type="submit"] { margin-left: 110px; }
 p { color: #F9E490; 
     font-family: serif, Palatino, serif;
     text-align: center;  }
+
 
 footer { color: #F9E490; }
