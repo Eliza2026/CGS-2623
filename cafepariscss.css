@@ -6,7 +6,7 @@ h1 { background-color: #034F3B; color: #F9E490;
 
 
 
-nav { background-color: #034F3B;  font-family: serif, Palatino, serif; font-size: 1.5em; text-align: center; }
+nav { background-color: #034F3B;  font-family: serif, Palatino, serif; font-size: 1.5em; text-align: center; text-decoration: none; }
 
 
   a:link {text-decoration: none; color: #F9E490; }
@@ -40,6 +40,7 @@ p { color: #F9E490;
 
 
 footer { color: #F9E490; }
+
 
 
 
