@@ -10,7 +10,7 @@ nav { background-color: #034F3B;  font-family: serif, Palatino, serif; font-size
 
 
   a:link {text-decoration: none; color: #F9E490; }
-  a:visited {text-decoration: none; color: ##FEF9C2; }
+  a:visited {text-decoration: none; color: #D7F990; }
   a:hover {text-decoration: none; color: #FEAD5D; }
 
 
@@ -40,6 +40,7 @@ p { color: #F9E490;
 
 
 footer { color: #F9E490; }
+
 
 
 
