@@ -24,7 +24,7 @@ form { background-color: #034F3B; color: #F9E490;
 label { float: left; clear: left; display: block;
         width: 100px; padding-right: 100px;
         margin-top: 10px; text-align: left; }
-input { display: block; margin-top: 10px; padding: 10px; Width: 200; }
+input { display: block; margin-top: 10px; padding: 10px; Width: 200px; }
 textarea { display: block; margin-top: 10px; }
 
 input[type="submit"] { margin-left: 110px; }
@@ -37,6 +37,7 @@ p { color: #F9E490;
 
 
 footer { color: #F9E490; }
+
 
 
 
