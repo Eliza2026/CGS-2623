@@ -9,8 +9,8 @@ h1 { background-color: #034F3B; color: #F9E490;
 nav { background-color: #034F3B;  font-family: serif, Palatino, serif; font-size: 1.5em; text-align: center; }
 
 
-  a:link {color: #F9E490; }
-  a:visited {color: #C4F3E0; }
+  a:link {text-decoration: none; color: #F9E490; }
+  a:visited {text-decoration: none; color: #C4F3E0; }
   a:hover {text-decoration: none; color: #FEAD5D; }
 
 
@@ -40,6 +40,7 @@ p { color: #F9E490;
 
 
 footer { color: #F9E490; }
+
 
 
 
